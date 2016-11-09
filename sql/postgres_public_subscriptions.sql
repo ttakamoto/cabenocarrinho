@@ -1,0 +1,1 @@
+INSERT INTO public.subscriptions (email, id) VALUES ('tiago.takamoto@gmail.com', 'd66c63d2-413e-476d-8e76-76cb5f716983');

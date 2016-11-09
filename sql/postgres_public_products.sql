@@ -1,0 +1,14 @@
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Coca-Cola 2L', 'http://i.imgur.com/gl2xyx8.jpg', 6.89, '222b5447-1118-49ab-b0db-9f9659e17485');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Omo MultiAção', 'http://i.imgur.com/cunz0Pp.jpg', 10.9, '78259272-162f-497c-8f87-8666262d7193');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Colgate Tripla Ação 90g', 'http://i.imgur.com/4KDBBf1.jpg', 2.69, 'a0375ea0-a42e-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Leite Parmalat 1L', 'http://i.imgur.com/s2fPkka.jpg', 2.49, 'c271c578-a42e-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Pão de Forma Pulmann 500g', 'http://i.imgur.com/oAuCQkR.jpg', 5.45, 'e2d3ce9c-a42e-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Molho Pomarola 340g', 'http://i.imgur.com/wadLzaR.jpg', 1.99, 'ffda89e0-a42e-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Copo CopoBras 300ml 50u', 'http://i.imgur.com/8kTgdDX.jpg', 9.85, '4f9beff0-a42f-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Carvao Piquery 2,5kg', 'http://i.imgur.com/HPmGvQu.jpg', 24.9, '7f6f8200-a42f-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Alface Crespa Qualitá', 'http://i.imgur.com/9prsje8.jpg', 2.89, 'ab304eb0-a42f-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Arroz Namorados 5kg', 'http://i.imgur.com/U0f8WwB.png', 12.88, 'c4b944f4-a42f-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Biscoito Trakinas 143g', 'http://i.imgur.com/BIsZ3g0.png', 2.25, 'ee8066dc-a42f-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Cerveja Brahma 269ml', 'http://i.imgur.com/MYJJwci.jpg', 1.99, '0961f614-a430-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Papel Neve folha dupla 4u', 'http://i.imgur.com/jlkyJe2.jpg', 7.25, '3e67785c-a430-11e6-80f5-76304dec7eb7');
+INSERT INTO public.products (name, url, average_price, id) VALUES ('Queijo Muss Sadia 200gr', 'http://i.imgur.com/2tP10dF.jpg', 6.95, '5ef11d1c-a430-11e6-80f5-76304dec7eb7');

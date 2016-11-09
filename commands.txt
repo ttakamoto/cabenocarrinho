@@ -1,0 +1,11 @@
+Commandos
+
+"postgres://username:password@localhost/database";
+
+PGUSER=postgres PGPASSWORD=postgres heroku pg:push postgres postgresql-round-54218 --app cabenocarrinho
+heroku pg:reset postgresql-round-54218
+
+heroku pg:info                              [1:14:56]
+
+
+heroku addons:create heroku-postgresql:hobby-dev

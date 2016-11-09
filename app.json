@@ -1,0 +1,8 @@
+{
+  "name": "Cabe no carrinho API",
+  "description": "Cabe no carrinho API",
+  "repository": "https://github.com/ttakamoto/cabenocarrinho",
+  "logo": "",
+  "keywords": ["carona", "carrinho", "api"],
+  "image": "heroku/nodejs"
+}
